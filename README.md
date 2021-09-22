@@ -1,2 +1,5 @@
 # jet.bas
-jet simulation in basic
+Ancient jet simulation in BASIC
+
+Moshix
+September 2021
