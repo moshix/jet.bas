@@ -5,6 +5,7 @@ jet.bas
   
 Ancient 8 bit Boeing 747 simulation in BASIC. Works nicely. Originally written around 1983 in gwbasic. 
 
+GW-Basic can be obtained in source code here: https://github.com/microsoft/GW-BASIC
 
 Moshix
 January 2025
