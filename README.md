@@ -3,7 +3,7 @@
 jet.bas
 =======
   
-Ancient 8 bit Boeing 747 simulation in BASIC. Works nicely. Originally written around 1983. 
+Ancient 8 bit Boeing 747 simulation in BASIC. Works nicely. Originally written around 1983 in gwbasic. 
 
 
 Moshix
