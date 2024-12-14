@@ -9,5 +9,7 @@ GW-Basic can be obtained in source code here: https://github.com/microsoft/GW-BA
 
 In binary you can get GW-BASIC from here: https://winworldpc.com/download/46c3acc5-b8c3-9918-c39a-11c3a4e284a2
 
+![747 on runway](/jetbas.jpg)
+
 Moshix  
 January 2025
